@@ -50,9 +50,9 @@ Dataset Features:
 - Fraud Pattern Analysis: Characteristics of detected anomalies
 - Performance Summary: Business impact assessment
 
-## Key Findings:
+<img width="898" height="291" alt="screenshot-localhost_8888-2025 11 02-10_04_10" src="https://github.com/user-attachments/assets/5aa52b08-4e8c-4168-b955-f6adebc8761b" />
 
-<img width="915" height="596" alt="screenshot-localhost_8888-2025 11 02-08_28_35" src="https://github.com/user-attachments/assets/dc897056-2122-4a99-8af9-b76fd5ff055f" />
+## Key Findings:
 
 - Best Performance: Autoencoder (F1-Score: 0.086)
 - Detection Rate: 5/116 fraud cases detected (4.3%)
